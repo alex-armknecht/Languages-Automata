@@ -1,3 +1,3 @@
 # Languages-Automata
 
-A combination of multiple languages 
+A combination of similar programs in multiple languages 
